@@ -1,0 +1,441 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Vivabook\\Desktop\\cay_verersen\\cay_verersen\\wwwroot\\adminAssets\\css\\maps\\style.css.map",
+      "PackagePath": "staticwebassets\\adminAssets\\css\\maps\\style.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Vivabook\\Desktop\\cay_verersen\\cay_verersen\\wwwroot\\adminAssets\\css\\style.css",
+      "PackagePath": "staticwebassets\\adminAssets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Vivabook\\Desktop\\cay_verersen\\cay_verersen\\wwwroot\\adminAssets\\fonts\\.DS_Store",
+      "PackagePath": "staticwebassets\\adminAssets\\fonts\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\Vivabook\\Desktop\\cay_verersen\\cay_verersen\\wwwroot\\adminAssets\\fonts\\Roboto\\.DS_Store",
+      "PackagePath": "staticwebassets\\adminAssets\\fonts\\Roboto\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\Vivabook\\Desktop\\cay_verersen\\cay_verersen\\wwwroot\\adminAssets\\fonts\\Roboto\\Roboto-Black.eot",
+      "PackagePath": "staticwebassets\\adminAssets\\fonts\\Roboto\\Roboto-Black.eot"
+    },
+    {
+      "Id": "C:\\Users\\Vivabook\\Desktop\\cay_verersen\\cay_verersen\\wwwroot\\adminAssets\\fonts\\Roboto\\Roboto-Black.ttf",
+      "PackagePath": "staticwebassets\\adminAssets\\fonts\\Roboto\\Roboto-Black.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Vivabook\\Desktop\\cay_verersen\\cay_verersen\\wwwroot\\adminAssets\\fonts\\Roboto\\Roboto-Black.woff",
+      "PackagePath": "staticwebassets\\adminAssets\\fonts\\Roboto\\Roboto-Black.woff"
+    },
+    {
+      "Id": "C:\\Users\\Vivabook\\Desktop\\cay_verersen\\cay_verersen\\wwwroot\\adminAssets\\fonts\\Roboto\\Roboto-Black.woff2",
+      "PackagePath": "staticwebassets\\adminAssets\\fonts\\Roboto\\Roboto-Black.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Vivabook\\Desktop\\cay_verersen\\cay_verersen\\wwwroot\\adminAssets\\fonts\\Roboto\\Roboto-Bold.eot",
+      "PackagePath": "staticwebassets\\adminAssets\\fonts\\Roboto\\Roboto-Bold.eot"
+    },
+    {
+      "Id": "C:\\Users\\Vivabook\\Desktop\\cay_verersen\\cay_verersen\\wwwroot\\adminAssets\\fonts\\Roboto\\Roboto-Bold.ttf",
+      "PackagePath": "staticwebassets\\adminAssets\\fonts\\Roboto\\Roboto-Bold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Vivabook\\Desktop\\cay_verersen\\cay_verersen\\wwwroot\\adminAssets\\fonts\\Roboto\\Roboto-Bold.woff",
+      "PackagePath": "staticwebassets\\adminAssets\\fonts\\Roboto\\Roboto-Bold.woff"
+    },
+    {
+      "Id": "C:\\Users\\Vivabook\\Desktop\\cay_verersen\\cay_verersen\\wwwroot\\adminAssets\\fonts\\Roboto\\Roboto-Bold.woff2",
+      "PackagePath": "staticwebassets\\adminAssets\\fonts\\Roboto\\Roboto-Bold.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Vivabook\\Desktop\\cay_verersen\\cay_verersen\\wwwroot\\adminAssets\\fonts\\Roboto\\Roboto-Light.eot",
+      "PackagePath": "staticwebassets\\adminAssets\\fonts\\Roboto\\Roboto-Light.eot"
+    },
+    {
+      "Id": "C:\\Users\\Vivabook\\Desktop\\cay_verersen\\cay_verersen\\wwwroot\\adminAssets\\fonts\\Roboto\\Roboto-Light.ttf",
+      "PackagePath": "staticwebassets\\adminAssets\\fonts\\Roboto\\Roboto-Light.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Vivabook\\Desktop\\cay_verersen\\cay_verersen\\wwwroot\\adminAssets\\fonts\\Roboto\\Roboto-Light.woff",
+      "PackagePath": "staticwebassets\\adminAssets\\fonts\\Roboto\\Roboto-Light.woff"
+    },
+    {
+      "Id": "C:\\Users\\Vivabook\\Desktop\\cay_verersen\\cay_verersen\\wwwroot\\adminAssets\\fonts\\Roboto\\Roboto-Light.woff2",
+      "PackagePath": "staticwebassets\\adminAssets\\fonts\\Roboto\\Roboto-Light.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Vivabook\\Desktop\\cay_verersen\\cay_verersen\\wwwroot\\adminAssets\\fonts\\Roboto\\Roboto-Medium.eot",
+      "PackagePath": "staticwebassets\\adminAssets\\fonts\\Roboto\\Roboto-Medium.eot"
+    },
+    {
+      "Id": "C:\\Users\\Vivabook\\Desktop\\cay_verersen\\cay_verersen\\wwwroot\\adminAssets\\fonts\\Roboto\\Roboto-Medium.ttf",
+      "PackagePath": "staticwebassets\\adminAssets\\fonts\\Roboto\\Roboto-Medium.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Vivabook\\Desktop\\cay_verersen\\cay_verersen\\wwwroot\\adminAssets\\fonts\\Roboto\\Roboto-Medium.woff",
+      "PackagePath": "staticwebassets\\adminAssets\\fonts\\Roboto\\Roboto-Medium.woff"
+    },
+    {
+      "Id": "C:\\Users\\Vivabook\\Desktop\\cay_verersen\\cay_verersen\\wwwroot\\adminAssets\\fonts\\Roboto\\Roboto-Medium.woff2",
+      "PackagePath": "staticwebassets\\adminAssets\\fonts\\Roboto\\Roboto-Medium.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Vivabook\\Desktop\\cay_verersen\\cay_verersen\\wwwroot\\adminAssets\\fonts\\Roboto\\Roboto-Regular.eot",
+      "PackagePath": "staticwebassets\\adminAssets\\fonts\\Roboto\\Roboto-Regular.eot"
+    },
+    {
+      "Id": "C:\\Users\\Vivabook\\Desktop\\cay_verersen\\cay_verersen\\wwwroot\\adminAssets\\fonts\\Roboto\\Roboto-Regular.ttf",
+      "PackagePath": "staticwebassets\\adminAssets\\fonts\\Roboto\\Roboto-Regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Vivabook\\Desktop\\cay_verersen\\cay_verersen\\wwwroot\\adminAssets\\fonts\\Roboto\\Roboto-Regular.woff",
+      "PackagePath": "staticwebassets\\adminAssets\\fonts\\Roboto\\Roboto-Regular.woff"
+    },
+    {
+      "Id": "C:\\Users\\Vivabook\\Desktop\\cay_verersen\\cay_verersen\\wwwroot\\adminAssets\\fonts\\Roboto\\Roboto-Regular.woff2",
+      "PackagePath": "staticwebassets\\adminAssets\\fonts\\Roboto\\Roboto-Regular.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Vivabook\\Desktop\\cay_verersen\\cay_verersen\\wwwroot\\adminAssets\\images\\.DS_Store",
+      "PackagePath": "staticwebassets\\adminAssets\\images\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\Vivabook\\Desktop\\cay_verersen\\cay_verersen\\wwwroot\\adminAssets\\images\\auth\\.DS_Store",
+      "PackagePath": "staticwebassets\\adminAssets\\images\\auth\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\Vivabook\\Desktop\\cay_verersen\\cay_verersen\\wwwroot\\adminAssets\\images\\auth\\lockscreen-bg.jpg",
+      "PackagePath": "staticwebassets\\adminAssets\\images\\auth\\lockscreen-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Vivabook\\Desktop\\cay_verersen\\cay_verersen\\wwwroot\\adminAssets\\images\\auth\\login-bg.jpg",
+      "PackagePath": "staticwebassets\\adminAssets\\images\\auth\\login-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Vivabook\\Desktop\\cay_verersen\\cay_verersen\\wwwroot\\adminAssets\\images\\auth\\register-bg.jpg",
+      "PackagePath": "staticwebassets\\adminAssets\\images\\auth\\register-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Vivabook\\Desktop\\cay_verersen\\cay_verersen\\wwwroot\\adminAssets\\images\\faces\\.DS_Store",
+      "PackagePath": "staticwebassets\\adminAssets\\images\\faces\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\Vivabook\\Desktop\\cay_verersen\\cay_verersen\\wwwroot\\adminAssets\\images\\faces\\face1.jpg",
+      "PackagePath": "staticwebassets\\adminAssets\\images\\faces\\face1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Vivabook\\Desktop\\cay_verersen\\cay_verersen\\wwwroot\\adminAssets\\images\\faces\\face10.jpg",
+      "PackagePath": "staticwebassets\\adminAssets\\images\\faces\\face10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Vivabook\\Desktop\\cay_verersen\\cay_verersen\\wwwroot\\adminAssets\\images\\faces\\face11.jpg",
+      "PackagePath": "staticwebassets\\adminAssets\\images\\faces\\face11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Vivabook\\Desktop\\cay_verersen\\cay_verersen\\wwwroot\\adminAssets\\images\\faces\\face12.jpg",
+      "PackagePath": "staticwebassets\\adminAssets\\images\\faces\\face12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Vivabook\\Desktop\\cay_verersen\\cay_verersen\\wwwroot\\adminAssets\\images\\faces\\face13.jpg",
+      "PackagePath": "staticwebassets\\adminAssets\\images\\faces\\face13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Vivabook\\Desktop\\cay_verersen\\cay_verersen\\wwwroot\\adminAssets\\images\\faces\\face14.jpg",
+      "PackagePath": "staticwebassets\\adminAssets\\images\\faces\\face14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Vivabook\\Desktop\\cay_verersen\\cay_verersen\\wwwroot\\adminAssets\\images\\faces\\face15.jpg",
+      "PackagePath": "staticwebassets\\adminAssets\\images\\faces\\face15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Vivabook\\Desktop\\cay_verersen\\cay_verersen\\wwwroot\\adminAssets\\images\\faces\\face16.jpg",
+      "PackagePath": "staticwebassets\\adminAssets\\images\\faces\\face16.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Vivabook\\Desktop\\cay_verersen\\cay_verersen\\wwwroot\\adminAssets\\images\\faces\\face17.jpg",
+      "PackagePath": "staticwebassets\\adminAssets\\images\\faces\\face17.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Vivabook\\Desktop\\cay_verersen\\cay_verersen\\wwwroot\\adminAssets\\images\\faces\\face18.jpg",
+      "PackagePath": "staticwebassets\\adminAssets\\images\\faces\\face18.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Vivabook\\Desktop\\cay_verersen\\cay_verersen\\wwwroot\\adminAssets\\images\\faces\\face19.jpg",
+      "PackagePath": "staticwebassets\\adminAssets\\images\\faces\\face19.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Vivabook\\Desktop\\cay_verersen\\cay_verersen\\wwwroot\\adminAssets\\images\\faces\\face2.jpg",
+      "PackagePath": "staticwebassets\\adminAssets\\images\\faces\\face2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Vivabook\\Desktop\\cay_verersen\\cay_verersen\\wwwroot\\adminAssets\\images\\faces\\face20.jpg",
+      "PackagePath": "staticwebassets\\adminAssets\\images\\faces\\face20.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Vivabook\\Desktop\\cay_verersen\\cay_verersen\\wwwroot\\adminAssets\\images\\faces\\face21.jpg",
+      "PackagePath": "staticwebassets\\adminAssets\\images\\faces\\face21.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Vivabook\\Desktop\\cay_verersen\\cay_verersen\\wwwroot\\adminAssets\\images\\faces\\face22.jpg",
+      "PackagePath": "staticwebassets\\adminAssets\\images\\faces\\face22.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Vivabook\\Desktop\\cay_verersen\\cay_verersen\\wwwroot\\adminAssets\\images\\faces\\face23.jpg",
+      "PackagePath": "staticwebassets\\adminAssets\\images\\faces\\face23.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Vivabook\\Desktop\\cay_verersen\\cay_verersen\\wwwroot\\adminAssets\\images\\faces\\face24.jpg",
+      "PackagePath": "staticwebassets\\adminAssets\\images\\faces\\face24.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Vivabook\\Desktop\\cay_verersen\\cay_verersen\\wwwroot\\adminAssets\\images\\faces\\face25.jpg",
+      "PackagePath": "staticwebassets\\adminAssets\\images\\faces\\face25.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Vivabook\\Desktop\\cay_verersen\\cay_verersen\\wwwroot\\adminAssets\\images\\faces\\face26.jpg",
+      "PackagePath": "staticwebassets\\adminAssets\\images\\faces\\face26.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Vivabook\\Desktop\\cay_verersen\\cay_verersen\\wwwroot\\adminAssets\\images\\faces\\face27.jpg",
+      "PackagePath": "staticwebassets\\adminAssets\\images\\faces\\face27.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Vivabook\\Desktop\\cay_verersen\\cay_verersen\\wwwroot\\adminAssets\\images\\faces\\face3.jpg",
+      "PackagePath": "staticwebassets\\adminAssets\\images\\faces\\face3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Vivabook\\Desktop\\cay_verersen\\cay_verersen\\wwwroot\\adminAssets\\images\\faces\\face4.jpg",
+      "PackagePath": "staticwebassets\\adminAssets\\images\\faces\\face4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Vivabook\\Desktop\\cay_verersen\\cay_verersen\\wwwroot\\adminAssets\\images\\faces\\face5.jpg",
+      "PackagePath": "staticwebassets\\adminAssets\\images\\faces\\face5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Vivabook\\Desktop\\cay_verersen\\cay_verersen\\wwwroot\\adminAssets\\images\\faces\\face6.jpg",
+      "PackagePath": "staticwebassets\\adminAssets\\images\\faces\\face6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Vivabook\\Desktop\\cay_verersen\\cay_verersen\\wwwroot\\adminAssets\\images\\faces\\face7.jpg",
+      "PackagePath": "staticwebassets\\adminAssets\\images\\faces\\face7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Vivabook\\Desktop\\cay_verersen\\cay_verersen\\wwwroot\\adminAssets\\images\\faces\\face8.jpg",
+      "PackagePath": "staticwebassets\\adminAssets\\images\\faces\\face8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Vivabook\\Desktop\\cay_verersen\\cay_verersen\\wwwroot\\adminAssets\\images\\faces\\face9.jpg",
+      "PackagePath": "staticwebassets\\adminAssets\\images\\faces\\face9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Vivabook\\Desktop\\cay_verersen\\cay_verersen\\wwwroot\\adminAssets\\images\\favicon.png",
+      "PackagePath": "staticwebassets\\adminAssets\\images\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\Vivabook\\Desktop\\cay_verersen\\cay_verersen\\wwwroot\\adminAssets\\images\\logo-mini.svg",
+      "PackagePath": "staticwebassets\\adminAssets\\images\\logo-mini.svg"
+    },
+    {
+      "Id": "C:\\Users\\Vivabook\\Desktop\\cay_verersen\\cay_verersen\\wwwroot\\adminAssets\\images\\logo.svg",
+      "PackagePath": "staticwebassets\\adminAssets\\images\\logo.svg"
+    },
+    {
+      "Id": "C:\\Users\\Vivabook\\Desktop\\cay_verersen\\cay_verersen\\wwwroot\\adminAssets\\js\\.DS_Store",
+      "PackagePath": "staticwebassets\\adminAssets\\js\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\Vivabook\\Desktop\\cay_verersen\\cay_verersen\\wwwroot\\adminAssets\\js\\Chart.min.js",
+      "PackagePath": "staticwebassets\\adminAssets\\js\\Chart.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Vivabook\\Desktop\\cay_verersen\\cay_verersen\\wwwroot\\adminAssets\\js\\chart.js",
+      "PackagePath": "staticwebassets\\adminAssets\\js\\chart.js"
+    },
+    {
+      "Id": "C:\\Users\\Vivabook\\Desktop\\cay_verersen\\cay_verersen\\wwwroot\\adminAssets\\js\\dashboard.js",
+      "PackagePath": "staticwebassets\\adminAssets\\js\\dashboard.js"
+    },
+    {
+      "Id": "C:\\Users\\Vivabook\\Desktop\\cay_verersen\\cay_verersen\\wwwroot\\adminAssets\\js\\data-table.js",
+      "PackagePath": "staticwebassets\\adminAssets\\js\\data-table.js"
+    },
+    {
+      "Id": "C:\\Users\\Vivabook\\Desktop\\cay_verersen\\cay_verersen\\wwwroot\\adminAssets\\js\\dataTables.bootstrap4.js",
+      "PackagePath": "staticwebassets\\adminAssets\\js\\dataTables.bootstrap4.js"
+    },
+    {
+      "Id": "C:\\Users\\Vivabook\\Desktop\\cay_verersen\\cay_verersen\\wwwroot\\adminAssets\\js\\documentation.js",
+      "PackagePath": "staticwebassets\\adminAssets\\js\\documentation.js"
+    },
+    {
+      "Id": "C:\\Users\\Vivabook\\Desktop\\cay_verersen\\cay_verersen\\wwwroot\\adminAssets\\js\\file-upload.js",
+      "PackagePath": "staticwebassets\\adminAssets\\js\\file-upload.js"
+    },
+    {
+      "Id": "C:\\Users\\Vivabook\\Desktop\\cay_verersen\\cay_verersen\\wwwroot\\adminAssets\\js\\hoverable-collapse.js",
+      "PackagePath": "staticwebassets\\adminAssets\\js\\hoverable-collapse.js"
+    },
+    {
+      "Id": "C:\\Users\\Vivabook\\Desktop\\cay_verersen\\cay_verersen\\wwwroot\\adminAssets\\js\\jquery.cookie.js",
+      "PackagePath": "staticwebassets\\adminAssets\\js\\jquery.cookie.js"
+    },
+    {
+      "Id": "C:\\Users\\Vivabook\\Desktop\\cay_verersen\\cay_verersen\\wwwroot\\adminAssets\\js\\jquery.dataTables.js",
+      "PackagePath": "staticwebassets\\adminAssets\\js\\jquery.dataTables.js"
+    },
+    {
+      "Id": "C:\\Users\\Vivabook\\Desktop\\cay_verersen\\cay_verersen\\wwwroot\\adminAssets\\js\\off-canvas.js",
+      "PackagePath": "staticwebassets\\adminAssets\\js\\off-canvas.js"
+    },
+    {
+      "Id": "C:\\Users\\Vivabook\\Desktop\\cay_verersen\\cay_verersen\\wwwroot\\adminAssets\\js\\tabs.js",
+      "PackagePath": "staticwebassets\\adminAssets\\js\\tabs.js"
+    },
+    {
+      "Id": "C:\\Users\\Vivabook\\Desktop\\cay_verersen\\cay_verersen\\wwwroot\\adminAssets\\js\\template.js",
+      "PackagePath": "staticwebassets\\adminAssets\\js\\template.js"
+    },
+    {
+      "Id": "C:\\Users\\Vivabook\\Desktop\\cay_verersen\\cay_verersen\\wwwroot\\adminAssets\\vendors\\.DS_Store",
+      "PackagePath": "staticwebassets\\adminAssets\\vendors\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\Vivabook\\Desktop\\cay_verersen\\cay_verersen\\wwwroot\\adminAssets\\vendors\\base\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\adminAssets\\vendors\\base\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Vivabook\\Desktop\\cay_verersen\\cay_verersen\\wwwroot\\adminAssets\\vendors\\base\\vendor.bundle.base.css",
+      "PackagePath": "staticwebassets\\adminAssets\\vendors\\base\\vendor.bundle.base.css"
+    },
+    {
+      "Id": "C:\\Users\\Vivabook\\Desktop\\cay_verersen\\cay_verersen\\wwwroot\\adminAssets\\vendors\\base\\vendor.bundle.base.js",
+      "PackagePath": "staticwebassets\\adminAssets\\vendors\\base\\vendor.bundle.base.js"
+    },
+    {
+      "Id": "C:\\Users\\Vivabook\\Desktop\\cay_verersen\\cay_verersen\\wwwroot\\adminAssets\\vendors\\chart.js\\Chart.min.js",
+      "PackagePath": "staticwebassets\\adminAssets\\vendors\\chart.js\\Chart.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Vivabook\\Desktop\\cay_verersen\\cay_verersen\\wwwroot\\adminAssets\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.css",
+      "PackagePath": "staticwebassets\\adminAssets\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.css"
+    },
+    {
+      "Id": "C:\\Users\\Vivabook\\Desktop\\cay_verersen\\cay_verersen\\wwwroot\\adminAssets\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.js",
+      "PackagePath": "staticwebassets\\adminAssets\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.js"
+    },
+    {
+      "Id": "C:\\Users\\Vivabook\\Desktop\\cay_verersen\\cay_verersen\\wwwroot\\adminAssets\\vendors\\datatables.net\\jquery.dataTables.js",
+      "PackagePath": "staticwebassets\\adminAssets\\vendors\\datatables.net\\jquery.dataTables.js"
+    },
+    {
+      "Id": "C:\\Users\\Vivabook\\Desktop\\cay_verersen\\cay_verersen\\wwwroot\\adminAssets\\vendors\\mdi\\css\\materialdesignicons.min.css",
+      "PackagePath": "staticwebassets\\adminAssets\\vendors\\mdi\\css\\materialdesignicons.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Vivabook\\Desktop\\cay_verersen\\cay_verersen\\wwwroot\\adminAssets\\vendors\\mdi\\css\\materialdesignicons.min.css.map",
+      "PackagePath": "staticwebassets\\adminAssets\\vendors\\mdi\\css\\materialdesignicons.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Vivabook\\Desktop\\cay_verersen\\cay_verersen\\wwwroot\\adminAssets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.eot",
+      "PackagePath": "staticwebassets\\adminAssets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\Vivabook\\Desktop\\cay_verersen\\cay_verersen\\wwwroot\\adminAssets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.svg",
+      "PackagePath": "staticwebassets\\adminAssets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\Vivabook\\Desktop\\cay_verersen\\cay_verersen\\wwwroot\\adminAssets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.ttf",
+      "PackagePath": "staticwebassets\\adminAssets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Vivabook\\Desktop\\cay_verersen\\cay_verersen\\wwwroot\\adminAssets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff",
+      "PackagePath": "staticwebassets\\adminAssets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\Vivabook\\Desktop\\cay_verersen\\cay_verersen\\wwwroot\\adminAssets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff2",
+      "PackagePath": "staticwebassets\\adminAssets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Vivabook\\Desktop\\cay_verersen\\cay_verersen\\wwwroot\\assets\\css\\style.css",
+      "PackagePath": "staticwebassets\\assets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Vivabook\\Desktop\\cay_verersen\\cay_verersen\\wwwroot\\assets\\imgs\\07af4801-6764-48e0-a6a8-c7916e567a7c-scarface-84-e1663616235746.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\07af4801-6764-48e0-a6a8-c7916e567a7c-scarface-84-e1663616235746.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Vivabook\\Desktop\\cay_verersen\\cay_verersen\\wwwroot\\assets\\imgs\\0ce545c8-b183-4be7-b171-e01505f5df0a-bdu_logo.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\0ce545c8-b183-4be7-b171-e01505f5df0a-bdu_logo.png"
+    },
+    {
+      "Id": "C:\\Users\\Vivabook\\Desktop\\cay_verersen\\cay_verersen\\wwwroot\\assets\\imgs\\13fe3502-c72c-4632-8aa1-0fe94886b3b3-realmadrid.webp",
+      "PackagePath": "staticwebassets\\assets\\imgs\\13fe3502-c72c-4632-8aa1-0fe94886b3b3-realmadrid.webp"
+    },
+    {
+      "Id": "C:\\Users\\Vivabook\\Desktop\\cay_verersen\\cay_verersen\\wwwroot\\assets\\imgs\\209ea6e6-2a66-4c2d-951c-4d23fe8a281e-bdu_logo.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\209ea6e6-2a66-4c2d-951c-4d23fe8a281e-bdu_logo.png"
+    },
+    {
+      "Id": "C:\\Users\\Vivabook\\Desktop\\cay_verersen\\cay_verersen\\wwwroot\\assets\\imgs\\6fe99a30-84fc-48fa-a0be-9c3e68d92592-bdu_logo.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\6fe99a30-84fc-48fa-a0be-9c3e68d92592-bdu_logo.png"
+    },
+    {
+      "Id": "C:\\Users\\Vivabook\\Desktop\\cay_verersen\\cay_verersen\\wwwroot\\assets\\imgs\\77ad2b46-68ba-422a-9c9d-3b8b81a03be3-scarface-84-e1663616235746.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\77ad2b46-68ba-422a-9c9d-3b8b81a03be3-scarface-84-e1663616235746.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Vivabook\\Desktop\\cay_verersen\\cay_verersen\\wwwroot\\assets\\imgs\\83450fa6-4fbf-4079-8916-03fa71df5e4c-scarface-84-e1663616235746.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\83450fa6-4fbf-4079-8916-03fa71df5e4c-scarface-84-e1663616235746.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Vivabook\\Desktop\\cay_verersen\\cay_verersen\\wwwroot\\assets\\imgs\\84c735eb-c90b-4eee-be75-8c5bb908a889-Wolf-of-Wall-Street-Feature.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\84c735eb-c90b-4eee-be75-8c5bb908a889-Wolf-of-Wall-Street-Feature.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Vivabook\\Desktop\\cay_verersen\\cay_verersen\\wwwroot\\assets\\imgs\\a8e15c78-85f5-4026-b2f4-ac5c42d0deb7-realmadrid.webp",
+      "PackagePath": "staticwebassets\\assets\\imgs\\a8e15c78-85f5-4026-b2f4-ac5c42d0deb7-realmadrid.webp"
+    },
+    {
+      "Id": "C:\\Users\\Vivabook\\Desktop\\cay_verersen\\cay_verersen\\wwwroot\\assets\\imgs\\b3363363-5823-4951-b00f-03ce8a580fda-bdu_logo.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\b3363363-5823-4951-b00f-03ce8a580fda-bdu_logo.png"
+    },
+    {
+      "Id": "C:\\Users\\Vivabook\\Desktop\\cay_verersen\\cay_verersen\\wwwroot\\assets\\imgs\\dd578aa6-0a57-4528-90a3-fcae51f2305f-scarface-84-e1663616235746.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\dd578aa6-0a57-4528-90a3-fcae51f2305f-scarface-84-e1663616235746.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Vivabook\\Desktop\\cay_verersen\\cay_verersen\\wwwroot\\assets\\imgs\\e251a4eb-0eb2-46ba-a98c-05d758cc9405-bdu_logo.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\e251a4eb-0eb2-46ba-a98c-05d758cc9405-bdu_logo.png"
+    },
+    {
+      "Id": "C:\\Users\\Vivabook\\Desktop\\cay_verersen\\cay_verersen\\wwwroot\\assets\\imgs\\fb85f6af-8953-49f1-ad90-69163299860e-scarface-84-e1663616235746.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\fb85f6af-8953-49f1-ad90-69163299860e-scarface-84-e1663616235746.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Vivabook\\Desktop\\cay_verersen\\cay_verersen\\wwwroot\\assets\\imgs\\wine-6878013_1280.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\wine-6878013_1280.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Vivabook\\Desktop\\cay_verersen\\cay_verersen\\wwwroot\\assets\\js\\app.js",
+      "PackagePath": "staticwebassets\\assets\\js\\app.js"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.cay_verersen.props",
+      "PackagePath": "build\\cay_verersen.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.cay_verersen.props",
+      "PackagePath": "buildMultiTargeting\\cay_verersen.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.cay_verersen.props",
+      "PackagePath": "buildTransitive\\cay_verersen.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.cay_verersen.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
